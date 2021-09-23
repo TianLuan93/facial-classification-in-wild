@@ -1,2 +1,7 @@
-If want to execute the ConvolutionalNeuralNetwork.py, you should unzip the faces-emotion_v2.zip, 
-and put the "Subset For Assignment SFEW" folder in the same directory as ConvolutionalNeuralNetwork.py
+The CompressionNeuralNetwork.py is about PIC tech.
+
+The ConvolutionalNeuralNetwork.py includes the nerual prune tech.
+
+If you want to execute the ConvolutionalNeuralNetwork.py, you should download SFEW dataset. 
+Here I use a subset for SFEW dataset so I need to put the "Subset For Assignment SFEW" folder
+in the same directory as ConvolutionalNeuralNetwork.py
